@@ -312,13 +312,10 @@ function InfoPage() {
 // App principal con las rutas
 function App() {
   return (
-    <Router basename="/frutos-rojos">
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/informacion/:fruit" element={<InfoPage />} />
       </Routes>
-    </Router>
-
   );
 }
 
