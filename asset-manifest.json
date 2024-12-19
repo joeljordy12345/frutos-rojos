@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/frutos-rojos/static/css/main.ca67ef22.css",
-    "main.js": "/frutos-rojos/static/js/main.bd9ccd9b.js",
+    "main.js": "/frutos-rojos/static/js/main.2314fcd2.js",
     "static/js/488.be9c4515.chunk.js": "/frutos-rojos/static/js/488.be9c4515.chunk.js",
     "static/media/IndustriaAlimentariaArandano.png": "/frutos-rojos/static/media/IndustriaAlimentariaArandano.946035b7462eb45889e8.png",
     "static/media/IndustriaAlimentariaFrambuesa.png": "/frutos-rojos/static/media/IndustriaAlimentariaFrambuesa.9e378e7e84da6fb57796.png",
@@ -35,11 +35,11 @@
     "static/media/infcerezas.png": "/frutos-rojos/static/media/infcerezas.535ce25ce1117f5a0189.png",
     "index.html": "/frutos-rojos/index.html",
     "main.ca67ef22.css.map": "/frutos-rojos/static/css/main.ca67ef22.css.map",
-    "main.bd9ccd9b.js.map": "/frutos-rojos/static/js/main.bd9ccd9b.js.map",
+    "main.2314fcd2.js.map": "/frutos-rojos/static/js/main.2314fcd2.js.map",
     "488.be9c4515.chunk.js.map": "/frutos-rojos/static/js/488.be9c4515.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca67ef22.css",
-    "static/js/main.bd9ccd9b.js"
+    "static/js/main.2314fcd2.js"
   ]
 }
