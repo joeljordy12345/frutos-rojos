@@ -313,13 +313,10 @@ function InfoPage() {
 function App() {
   return (
     <Router basename="/frutos-rojos">
-
-    <Router>
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/informacion/:fruit" element={<InfoPage />} />
       </Routes>
-    </Router>
     </Router>
 
   );
